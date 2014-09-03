@@ -1,0 +1,66 @@
+BODY {BACKGROUND-COLOR: #BBBBBB; COLOR: #3F3849; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px;
+	/* this attribute sets the basis for all the other scrollbar colors (Internet Explorer 5.5+ only) */
+	SCROLLBAR-BASE-COLOR:  #40364d;
+	/* all scrollbar attriblutes following are not required, but you can set them if you wish. */
+	SCROLLBAR-ARROW-COLOR: #F5D300;
+	SCROLLBAR-HIGHLIGHT-COLOR: #90869E;
+	/* attributes we aren't using at the moment
+	SCROLLBAR-3DLIGHT-COLOR: #87789E;
+	SCROLLBAR-FACE-COLOR: #40364d;
+	SCROLLBAR-SHADOW-COLOR: #2F4261;
+	SCROLLBAR-DARK-SHADOW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #51485F;
+	*/
+}
+
+UL			{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px}
+LI			{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px}
+P			{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px}
+TD			{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px}
+TR			{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 12px}
+
+/* color for links */
+A:LINK		{COLOR: #3F3849; TEXT-DECORATION: underline}
+A:VISITED	{COLOR: #3F3849; TEXT-DECORATION: underline}
+/* hover color for links (Internet Explorer only) */
+A:HOVER		{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}
+A:ACTIVE	{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}
+
+FORM		{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px}
+SELECT		{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #51485F; FONT-SIZE: 10px}
+INPUT		{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #51485F; FONT-SIZE: 10px}
+TEXTAREA	{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; COLOR: #51485F; FONT-SIZE: 10px}
+
+/* style for submit/reset buttons */
+#submitrow INPUT {BACKGROUND-COLOR:#40364d; COLOR: #f5d300; FONT-WEIGHT: bold}
+/* first alternating table background color */
+.firstalt	{BACKGROUND-COLOR: #D0D0D0}
+/* second alternating table background color */
+.secondalt	{BACKGROUND-COLOR: #C5C5C5}
+/* table header background and text color */
+/*.tblhead	{BACKGROUND-COLOR: #40364D; COLOR:#F5D300; FONT-SIZE:10px}*/
+.tblhead	{BACKGROUND-COLOR: #FFCCCC; COLOR:#000000; FONT-SIZE:10px}
+
+/* table border color */
+.tblborder	{BACKGROUND-COLOR: #51485F}
+
+.smallText {COLOR: #3F3849; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px;}
+.mediumText {COLOR: #3F3849; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px;}
+
+/* extra styles for top and left frames */
+#navbody 			{COLOR: #3F3849; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px; BACKGROUND-COLOR: #51485F}
+#navbody TD 		{FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px}
+#navbody A:LINK		{COLOR: #9A91AA; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 10px}
+#navbody A:VISITED	{COLOR: #9A91AA; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif}
+#navbody A:HOVER	{COLOR: #F5D300; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #40364d}
+#navbody A:ACTIVE	{COLOR: #F5D300; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif; BACKGROUND-COLOR: #40364d}
+#navbody .tblhead	{COLOR: #BCB6CD; FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif}
+
+/* global and custom color definitions */
+.gc {COLOR: darkgreen} /* global color */
+.cc {COLOR: darkblue} /* custom color */
+
+a.selected_link:LINK	{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}
+a.selected_link:VISITED	{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}
+a.selected_link:HOVER	{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}
+a.selected_link:ACTIVE	{COLOR: #F5D300; BACKGROUND-COLOR: #40364d}

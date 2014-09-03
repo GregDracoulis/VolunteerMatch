@@ -1,0 +1,6 @@
+
+$swift = new Swift(new Swift_Connection_SMTP("$smtp_server", SWIFT_SECURE_PORT, SWIFT_TLS)); 
+
+//Specify secure TLS when we make the connection
+
+and then $swift->authenticate("$smtp_user", "$smtp_pass");

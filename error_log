@@ -1,0 +1,9 @@
+[28-Jan-2013 19:46:42] PHP Parse error:  syntax error, unexpected '/' in /home/cacthub/public_html/volunteermatch/svec2/myadmin/functions.php on line 363
+[28-Jan-2013 19:46:46] PHP Parse error:  syntax error, unexpected '/' in /home/cacthub/public_html/volunteermatch/svec2/myadmin/functions.php on line 363
+[29-Jan-2013 12:16:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'cacthub_usrtest2'@'localhost' (using password: NO) in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 4
+[29-Jan-2013 18:27:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'cacthub_usrtest2'@'localhost' (using password: NO) in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 4
+[29-Jan-2013 18:30:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'cacthub_usrtest2'@'localhost' (using password: NO) in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 4
+[29-Jan-2013 18:58:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 56
+[29-Jan-2013 23:10:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 51
+[15-Mar-2013 17:13:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 21
+[15-Mar-2013 17:13:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/cacthub/public_html/volunteermatch/svec2/tarsubmit.php on line 30
