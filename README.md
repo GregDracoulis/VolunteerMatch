@@ -68,6 +68,8 @@ Import the file: _SQL/vol_install.sql  into the newly created database.
 
 Step 6) With a hosting control panel, or FTP, change the permissions on the following files to `666`
 
+type	|filename
+--------|--------------
 file	|`myadmin/badwordfilter.txt`
 file	|`myadmin/badwordfilter.inc`
 dir		|`tmpls/`
